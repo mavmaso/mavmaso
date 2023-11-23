@@ -5,7 +5,6 @@
   Hi, my name is Marcos Soares. 👋 <br>
   I work with <strong>Back End Elixir</strong>.<br>
   I have years of experience in IT support and consulting and currently working as an Elixir programmer.<br>
-  I have lived and worked in Canada for one year to improve my English, and seven months in Japan.
 </p>
 
 ## **My skills:**  
